@@ -1,0 +1,233 @@
+@media all and (max-width: 1440px){
+    .gifs{
+        width: 120px;
+        height: 120px;
+    }
+    .tr{
+        height: 200px;
+        margin-top: 350px;
+    }
+    .block__levo {
+        width: 300px;
+    }
+    .block__pravo{
+        width: 600px;
+        justify-content: center;
+        
+       
+        
+    }
+    .int{
+        width: 250px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .qqq{
+        width: 250px;
+    }
+    .items{
+        width: 250px;
+    }
+    .list{
+        width: 240px;
+    }
+    .font{
+        width: 250px;
+    }
+    .zeb{
+        width: 240px;
+        font-size: 25px;
+        height: 150px;
+    }
+    .mmm{
+        width: 250px;
+        height: 160px;
+
+    }
+    .lishka{
+        font-size: 20px;
+    }
+    .cv{
+        width: 150px;
+        height: 100px;
+        text-align: center;
+        margin: 20px auto;
+        
+        
+    }
+    .osnova {
+        font-size: 10px;
+        
+        text-align: center;}
+        .mal{
+            width: 55px;
+        }
+        h3{
+            width: 200px;
+        }
+        .navbar__list{
+            padding: 0%;
+        }
+        .navbar{
+            display: flex;
+            justify-content: space-between;
+        }
+        .navbar__right{
+            width: 800px;
+        }
+        .navbar__item{
+            font-size: 20px;
+        }
+}
+@media all and (max-width: 1024px){
+    
+    .block__levo {
+        width: 300px;
+    }
+    .block__pravo{
+        width: 600px;
+        justify-content: center;
+        
+       
+        
+    }
+    .int{
+        width: 250px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .qqq{
+        width: 250px;
+    }
+    .items{
+        width: 250px;
+    }
+    .list{
+        width: 240px;
+    }
+    .font{
+        width: 250px;
+    }
+    .zeb{
+        width: 240px;
+        font-size: 25px;
+        height: 150px;
+    }
+    .mmm{
+        width: 250px;
+        height: 160px;
+
+    }
+    .lishka{
+        font-size: 20px;
+    }
+    .cv{
+        width: 150px;
+        height: 100px;
+        text-align: center;
+        margin: 20px auto;
+        
+        
+    }
+    .osnova {
+        font-size: 10px;
+        
+        text-align: center;}
+        .mal{
+            width: 55px;
+        }
+        h3{
+            width: 200px;
+        }
+        .navbar__list{
+            padding: 0%;
+        }
+        .navbar{
+            display: flex;
+            justify-content: space-between;
+        }
+        .navbar__right{
+            width: 800px;
+        }
+        .navbar__item{
+            font-size: 20px;
+        }
+}
+@media all and (max-width: 768px){
+    .tr{
+        height: 350px;
+        margin-top: 500px;
+        flex-wrap: wrap;
+
+    }
+    .gifs{
+        
+        width: 150px;
+    }
+    .blovk__levo{
+        width: 200px;
+    }
+    .block__pravo{
+        width: 400px;
+    }
+    .mal{
+        width: 30px;
+        font-size: 50px;
+    }
+    .cv{
+        width: 100px;
+        margin: 10px auto;
+    }
+    .chast{
+        width: 100px;
+        height: 100px;
+        margin: 0% auto;
+    }
+    h3{
+        width: 100px;
+    }
+    .knopka{
+        width: 100px;
+    }
+    
+}
+@media all and (max-width:320px){
+    .navbar__right{
+        display: none;
+        }
+        .menu{
+            display: flex;
+            justify-content: center;
+            margin-right: 10px;
+
+        }
+        .navbar__logo{
+            width: 100px;
+            margin-left: 10px;
+        }
+        .navbar{
+            height: 150px;
+        }
+        .block{
+            flex-wrap: wrap;
+            width: 100%;
+
+        }
+        .block__pravo{
+            width: 300px;
+            
+        }
+        .mal{
+            font-size: 30px;
+            width: 20px;
+        }
+        .cv{
+            width: 80px;
+            height: 80px;
+        }
+        .tr{
+            margin-top: 400px;
+            height: 517px;
+        }
+        
+}
